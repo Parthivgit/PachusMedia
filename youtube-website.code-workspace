@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/USER/.vscode/Website_assets/youtube-website"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pachusmedia"
+	}
+}

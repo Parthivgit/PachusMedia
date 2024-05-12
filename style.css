@@ -1,0 +1,155 @@
+.Top-text{
+    font-size: 400%;
+    font-family:Forte;
+    color:rgb(244, 247, 250);
+    position:absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.hr {
+    margin: 0;
+}
+html, body{
+    margin: 0;
+}
+p {
+    border: 1px;
+}
+.top-hr {
+    background-color: rgb(223, 253, 253);
+}
+header{
+    width: 100%;
+    height: 300px;
+    background-image: url("Website-images/header.png");
+    background-color: rgba(0, 0, 0, .6);
+    background-blend-mode: multiply;
+}
+.About-heading {
+    font-size: 25px;
+}
+.about-channel-1{
+    padding-left: 30px;
+    font-size: 21px;
+}
+.Logo-about {
+    float :left;
+    height: 190px;
+    width: 190px;
+    padding-top: 0;
+    padding-left: 10px;
+}
+.channel-about{
+    margin: 10px;
+}
+footer{
+    margin: 20px;
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+.Tabs{
+    background-color: rgb(223, 253, 253);
+}
+button{
+    width: 300px;
+    height: 30px;
+    background-color: rgb(2, 253, 253);
+    color:blue;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(0, 119, 255);
+    color:yellow;
+}
+.Store-tab{
+    padding-left: 35%;
+}
+h3{
+    font-family: sans-serif;
+}
+.bottle-art-head{
+    padding-left: 200px;
+    color: rgb(42, 209, 8);
+    text-decoration: underline;
+}
+h2 {
+    text-align: center;
+    font-family: Courier;
+}
+.Product-head{
+    display: flex;
+    flex-direction: row;
+}
+.Product-head h2 {
+    padding-top: 20px;
+    padding-left: 350px;
+}
+.product-head-text {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    padding-left: 100px;
+}
+.Product-img img{
+    width: 500px;
+    padding-left: 150px;
+    float: left;
+}
+.Product-details {
+    padding-left: 935px;
+    padding-top: 35px;
+}
+.Product-details button {
+    position: absolute;
+    top: 500px;
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+}
+.Product-details button :hover {
+    background-color: rgb(4, 201, 63);
+}
+h1 {
+    font-family: forte;
+    padding-left: 30px;
+}
+.store-container img{
+    width: 150px;
+    padding : 2px;
+}
+.store-container {
+    display: flex;
+    flex-direction: row;
+}
+.product-1-text {
+    display: flex;
+    flex-direction: row;
+}
+.product-2-text {
+    display: flex;
+    flex-direction: row;
+}
+.product-1{
+    width: 154px;
+    height: 210px;
+    background-color: rgb(250, 250, 177);
+    margin-left : 50px;
+}
+.price{
+    color: green;
+}
+.links-heading{
+    font-family:Verdana;
+}
+.Bottle-art {
+    display: flex;
+    flex-direction: row;
+}
+/* The next line for the form in buy tab     */
+
+form {
+    padding-top: 20%;
+    padding-left: 35%;
+}
